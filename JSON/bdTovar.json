@@ -54,12 +54,5 @@
         "productImg": "https://raw.githubusercontent.com/Dymoc/static/master/img/image_placeholder_8.png",
         "productId": "prod_7",
         "productQuantity": 1
-    },
-    {
-        "productName": "STRAWBERRY PEOPLE T-SHIRT",
-        "roductPrice": 55,
-        "productImg": "https://raw.githubusercontent.com/Dymoc/static/master/img/image_placeholder_3.png",
-        "productId": "prod_8",
-        "productQuantity": 1
-    }
+    }    
 ]
